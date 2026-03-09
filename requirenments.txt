@@ -1,0 +1,7 @@
+torch
+torch-geometric
+numpy
+matplotlib
+scikit-learn
+h5py
+jupyter
